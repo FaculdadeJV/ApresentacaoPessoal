@@ -17,7 +17,7 @@ Além de servir como uma apresentação individual, o projeto proporcionou o pri
 
 ### Página Inicial
 
-![Página Inicial](screenshots/.png)
+![Página Inicial](screenshots/geral.png)
 
 ---
 
