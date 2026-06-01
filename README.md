@@ -1,62 +1,73 @@
-# Apresentacao Pessoal - Victor Arsego Lêla
+# Apresentação Pessoal
 
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge\&logo=html5\&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge\&logo=css3\&logoColor=white)
 
 ## Sobre o Projeto
 
-Projeto inicial da disciplina de Desenvolvimento Web do curso de Engenharia da Computacao (CEUB).
+Projeto desenvolvido como atividade introdutória da disciplina de Desenvolvimento Web do curso de Engenharia da Computação (CEUB).
 
-Esta pagina foi desenvolvida como uma apresentacao pessoal para que o professor pudesse conhecer melhor cada aluno, seus objetivos e expectativas para a disciplina.
+A proposta consistiu na criação de uma página web de apresentação pessoal, permitindo que os alunos compartilhassem informações sobre sua trajetória acadêmica, interesses profissionais, objetivos de carreira e expectativas em relação à disciplina.
 
-## Objetivo
+Além de servir como uma apresentação individual, o projeto proporcionou o primeiro contato prático com conceitos fundamentais de desenvolvimento front-end utilizando HTML e CSS puros.
 
-Criar uma pagina web simples utilizando HTML e CSS puro que apresente:
-- Informacoes pessoais do aluno
-- Objetivos academicos
-- Expectativas para a disciplina
-- Interesses na area de desenvolvimento web
+---
 
-## Tecnologias Utilizadas
+## Screenshots
 
-- HTML5 - Estrutura semantica da pagina
-- CSS3 - Estilizacao com glassmorphism e design responsivo
-  - Flexbox
-  - Animacoes e transicoes
-  - Variaveis CSS
-  - Media queries para responsividade
+### Página Inicial
+
+![Página Inicial](screenshots/geral.png)
+
+---
 
 ## Funcionalidades
 
-- Design moderno com efeito glass (vidro fosco)
-- Fundo animado com gradientes
-- Totalmente responsivo (desktop, tablet e mobile)
-- Tags interativas de tecnologias
-- Efeitos hover suaves nos elementos
-- Avatar com iniciais do aluno
+* Design moderno utilizando efeito glassmorphism
+* Fundo com gradientes e elementos visuais personalizados
+* Layout totalmente responsivo para desktop, tablet e dispositivos móveis
+* Apresentação de informações pessoais e acadêmicas
+* Exibição de interesses e objetivos profissionais
+* Tags interativas representando áreas de interesse
+* Efeitos de animação e transição em elementos da interface
+* Avatar personalizado com identificação do aluno
 
-## Como Visualizar
+---
 
-1. Clone o repositorio:
-```bash
-git clone https://github.com/FaculdadeJV/apresentacaopessoal.git"
-```
+## Tecnologias Utilizadas
+
+| Tecnologia    | Descrição                                  |
+| ------------- | ------------------------------------------ |
+| HTML5         | Estruturação semântica do conteúdo         |
+| CSS3          | Estilização, responsividade e animações    |
+| Flexbox       | Organização e alinhamento dos elementos    |
+| CSS Variables | Padronização de cores e estilos            |
+| Media Queries | Adaptação para diferentes tamanhos de tela |
+
+---
+
+## Como Executar
+
+1. Clone o repositório:
+
+   ```bash
+   git clone https://github.com/FaculdadeJV/apresentacaopessoal.git
+   ```
+
+2. Acesse a pasta do projeto
+
+3. Abra o arquivo `index.html` em qualquer navegador moderno
 
 ---
 
 ## Autor
 
-**Victor Arsego Lêla**
--  RA: 22408629
--  Curso: Engenharia da Computação
--  Disciplina: Desenvolvimento Web
+* Victor (Jonathan) Arsego Lêla
+* RA: 22408629
+* Engenharia da Computação - CEUB
 
 ---
 
 Este projeto foi desenvolvido para fins acadêmicos na disciplina de Desenvolvimento Web do CEUB.
 
 ---
-
-
-
-
